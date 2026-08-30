@@ -1,4 +1,4 @@
 {
-    "enabled": true,
+    "enabled": False,
     "message": "Homepage content enabled."
 }
